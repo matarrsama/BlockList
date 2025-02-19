@@ -3281,3 +3281,22 @@
 # 'example.com':
 
 # 0.0.0.0 example.com
+
+# New Custom Domains
+
+0.0.0.0 www.youtube.com 	
+0.0.0.0 www.facebook.com 	
+0.0.0.0 www.tiktok.com 	
+0.0.0.0 m.youtube.com 	
+0.0.0.0 m.facebook.com 	
+0.0.0.0 www.youtubei.googleapis.com 	
+0.0.0.0 www.youtube.googleapis.com 	
+0.0.0.0 api.facebook.com 	
+0.0.0.0 www.api.facebook.com 	
+0.0.0.0 www.graph.facebook.com 	
+0.0.0.0 www.business.facebook.com 	
+0.0.0.0 www.fbcdn.net 	
+0.0.0.0 scontent.xx.fbcdn.net 	
+0.0.0.0 www.scontent.xx.fbcdn.net 	
+0.0.0.0 video.xx.fbcdn.net 	
+0.0.0.0 www.connect.facebook.net
