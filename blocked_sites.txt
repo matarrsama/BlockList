@@ -3162,6 +3162,24 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xlog.tiktokv.com.edgesuite.net
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 log.tiktokv.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 mon.musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 api2-21-h2.musical.ly
+0.0.0.0 api21-h2.tiktokv.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 muscdn.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktok.com
 
 # DateMeme
 0.0.0.0 datememe.com
